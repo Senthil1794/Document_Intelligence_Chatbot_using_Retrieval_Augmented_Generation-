@@ -152,8 +152,8 @@ http://127.0.0.1:5000
 **Senthil**
 Senior Python & GenAI Engineer
 
-* LinkedIn: [https://linkedin.com/in/yourprofile](www.linkedin.com/in/senthil-prabhu-aa287964 )
-* GitHub: [https://github.com/yourprofile](https://github.com/Senthil1794/)
+* LinkedIn: [www.linkedin.com/in/senthil-prabhu-aa287964](www.linkedin.com/in/senthil-prabhu-aa287964 )
+* GitHub: [https://github.com/Senthil1794/](https://github.com/Senthil1794/)
 
 ---
 
